@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV & Contact"
+title: "CV"
 permalink: /pk-cv/
 author_profile: true
 redirect_from:
