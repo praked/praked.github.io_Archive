@@ -9,5 +9,4 @@ redirect_from:
 ---
 
 This is Pranav's home on the web!
-
-
+I am student @ IIIT-Bangalore
