@@ -4,7 +4,6 @@ collection: publications
 permalink: /publication/GIS_paper
 excerpt: ''
 date: 2016-07-25
-venue: ''
 paperurl: 'https://www.researchgate.net/publication/309125859_Crime_Mapping_and_Analysis_using_GIS'
 citation: 'P. Kedia (2016). &quot;Crime Mapping and Analysis using GIS&quot; <i>preprint</i>.'
 ---
