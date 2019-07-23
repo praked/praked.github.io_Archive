@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Crime Mapping and Analysis using GIS"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/GIS_paper
+excerpt: ''
+date: 2016-07-25
+venue: ''
+paperurl: 'https://www.researchgate.net/publication/309125859_Crime_Mapping_and_Analysis_using_GIS'
+citation: 'P. Kedia (2016). &quot;Crime Mapping and Analysis using GIS&quot; <i>preprint</i>.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+**Abstract:** This paper looks at the possibility of utilizing GIS for crime mapping and its analysis for effective law enforcement and crime management. This option was explored by showing the procedural method of creating a) A hierarchal system of location data collection which previously didn’t exist b) Creating database with all spatial and non-spatial data c) Creating heat map based on temporal and spatial analysis such as query and KDE using QGIS software and GPS. The analysis shows area of crime hotspots, areas deficient in security outfit, areas requiring constant police patrol, time and days when citizens face the maximum crime and of what type. The study proves that GIS gives us a better synoptic perspective to crime mapping, study, analysis, decision making, better presentation to a layman and thus prevents crime. It however suggests that migrating from traditional method of crimemanagement to GIS demands building the required infrastructure and recruiting trained personnel and facilities. 
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://www.researchgate.net/publication/309125859_Crime_Mapping_and_Analysis_using_GIS)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: P. Kedia. (2009). "Crime Mapping and Analysis using GIS" <i>preprint</i>.
