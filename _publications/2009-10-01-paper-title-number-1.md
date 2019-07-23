@@ -11,4 +11,4 @@ citation: 'P. Kedia (2016). &quot;Crime Mapping and Analysis using GIS&quot; <i>
 
 [Download paper here](https://www.researchgate.net/publication/309125859_Crime_Mapping_and_Analysis_using_GIS)
 
-Recommended citation: P. Kedia. (2009). "Crime Mapping and Analysis using GIS" <i>preprint</i>.
+Recommended citation: P. Kedia. (2016). "Crime Mapping and Analysis using GIS" <i>preprint</i>.
