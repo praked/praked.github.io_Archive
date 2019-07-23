@@ -1,0 +1,169 @@
+---
+permalink: /
+title: "About me"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+<head>
+
+
+<style>
+
+#main1 {
+    background-color: white;
+    width: 100%;
+    padding: 7px;
+    box-shadow: 3px 5px #F1E5BE;
+    border-style: double;
+    border-radius: 15px;
+}
+
+
+
+.move {
+  font-family: 'Raleway', sans-serif;
+  background-color: white;
+  color: #C7BB8F
+  font-weight: 200;
+  font-style: italic;
+  
+}
+
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+svg{font-weight:bold;max-width:110px;height:auto;text-align:left;float:left;}
+
+
+</style>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-144334033-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-144334033-1');
+</script>
+
+
+<script type="text/javascript">
+var TxtRotate = function(el, toRotate, period) {
+  this.toRotate = toRotate;
+  this.el = el;
+  this.loopNum = 0;
+  this.period = 2000;
+  this.txt = '';
+  this.tick();
+  this.isDeleting = false;
+};
+
+TxtRotate.prototype.tick = function() {
+  var i = this.loopNum % this.toRotate.length;
+  var fullTxt = this.toRotate[i];
+
+  if (this.isDeleting) {
+    this.txt = fullTxt.substring(0, this.txt.length - 1);
+  } else {
+    this.txt = fullTxt.substring(0, this.txt.length + 1);
+  }
+
+  this.el.innerHTML = '<span class="wrap">'+this.txt+'</span>';
+
+  var that = this;
+  var delta = 100 - Math.random() * 100;
+
+  if (this.isDeleting) { delta /= 2; }
+
+  if (!this.isDeleting && this.txt === fullTxt) {
+    delta = this.period;
+    this.isDeleting = true;
+  } else if (this.isDeleting && this.txt === '') {
+    this.isDeleting = false;
+    this.loopNum++;
+    delta = 100;
+  }
+
+  setTimeout(function() {
+    that.tick();
+  }, delta);
+};
+
+window.onload = function() {
+  var elements = document.getElementsByClassName('txt-rotate');
+  for (var i=0; i<elements.length; i++) {
+    var toRotate = elements[i].getAttribute('data-rotate');
+    var period = elements[i].getAttribute('data-period');
+    if (toRotate) {
+      new TxtRotate(elements[i], JSON.parse(toRotate), period);
+    }
+  }
+ 
+  var css = document.createElement("style");
+  css.type = "text/css";
+  css.innerHTML = ".txt-rotate > .wrap { border-right: 0.08em solid #666 }";
+  document.body.appendChild(css);
+};
+
+</script>
+</head>
+
+
+<body>
+
+<link href="https://fonts.googleapis.com/css?family=Raleway:200,100,400" rel="stylesheet" type="text/css" />
+
+<div id="main1"><p align="justify"> <i>Hello! I'm Anup, I currently reside in Bangalore, India where I'm majoring in computer science at <a href="https://www.iiitb.ac.in/">IIIT-B</a> (final year). Previously, I was part of <a href="http://www.sc.iitb.ac.in/robotics/people.html">ARMS  lab</a> at IIT Bombay, India in the summer of 2019.</a> I am currently affiliated to the <a href="https://www.iiitb.ac.in/sarl/sarl.html">Surgical and Assistive Robotics Lab</a>, led by <a href="https://www.iiitb.ac.in/faculty_page.php?name=madhavrao">Prof. Madhav Rao</a>. </i> </p>
+
+<p align="justify"><b><i>I enjoy working on Deep learning methods that are especially applied to Recommender Systems and Computer Vision. You can find details of my <a href="https://anup-deshmukh.github.io/anup-publications/">Publications</a> and <a href="https://anup-deshmukh.github.io/anup-iiitb-projects/">Projects</a> here.</i></b></p>
+
+</div>
+
+<br />
+
+<p align="justify">My recent work <a href="https://anup-deshmukh.github.io/anup-publication/A-Scalable-Clustering-algorithm-for-Serendipity-in-Recommender-Systems">"A Scalable Clustering Algorithm for Serendipity in Recommender Systems"</a> is accepted in the Recommender Systems track of <a href="http://icdm2018.org/">ICDM 2018</a>. My research focuses on building efficient and scalable Machine Learning algorithms for Recommender Systems (RS) which go <a href="https://en.wikipedia.org/wiki/Recommender_system#Beyond_accuracy">beyond accuracy</a>. I'm currently working on my thesis where, broadly, my goal is to exploit Deep Learning methods to learn user-item interaction function in RS. </p> 
+
+<p align="justify"> I am also interested in applications of Deep Learning to Computer Vision problems like crowd counting, image captioning and text-to-image synthesis. Building novel and practically useful Computer Vision algorithms has always excited me. </p> 
+
+<p align="justify">
+
+<svg viewbox="0 0 100 20">
+  <defs>
+    <linearGradient id="gradient" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="5%" stop-color="#3186C5"/>
+      <stop offset="95%" stop-color="#123752"/>
+    </linearGradient>
+    <pattern id="wave" x="0" y="0" width="120" height="20" patternUnits="userSpaceOnUse">
+      <path id="wavePath" d="M-40 9 Q-30 7 -20 9 T0 9 T20 9 T40 9 T60 9 T80 9 T100 9 T120 9 V20 H-40z" mask="url(#mask)" fill="url(#gradient)"> 
+        <animateTransform
+            attributeName="transform"
+            begin="0s"
+            dur="1.5s"
+            type="translate"
+            from="0,0"
+            to="40,0" 
+            repeatCount="indefinite" />
+      </path>
+    </pattern>
+  </defs>
+  <text text-anchor="left" x="0" y="15" font-size="17" fill="url(#wave)"  fill-opacity="0.6">NEWS</text>
+  <text text-anchor="left" x="0" y="15" font-size="17" fill="url(#gradient)" fill-opacity="0.4">NEWS</text>
+</svg>
+
+<div class="move">
+<span class="txt-rotate" data-period="2000" data-rotate='["I successfully defended my Masters thesis at IIIT-B", "I gave my first TEDx pre-event talk titled \"Burst your Filter Bubble\""]'></span>
+</div>
+</p>
+
+<br/>
+
+<p align="justify"> Apart from my work, I enjoy <a href="https://anup-deshmukh.github.io/talkmap.html">travelling</a> and learning about new cultures. I love both online and offline <a href="https://anup-deshmukh.github.io/anup-iiitb-reading/">reading</a>. I am also an avid reader of world politics and get considerable enjoyment from sports.
+</a></p> 
+
+
+</body>
