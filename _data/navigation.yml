@@ -2,12 +2,10 @@
 main:
   - title: "Publications"
     url: /pk-publications/
-
+  - title: "Projects"
+    url: /pk-projects/
   - title: "Talks"
-    url: /pk-talks/    
-
-  - title: "Teaching"
-    url: /pk-teaching/    
+    url: /pk-talks/       
      
   - title: "Blog Posts"
     url: /pk-blog/
