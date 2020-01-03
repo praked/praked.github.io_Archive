@@ -1,7 +1,7 @@
 ---
-title: "An Experimental Distributed Swarm Robotics Platform"
-excerpt: "Investigations into the working of swarms in nature (eg: army ants, weaver ants, school of fishes and even cells in a multicellular organism ). Designing and developing bio-inspired Swarm robotics platform artificially imitating these natural processes of communication and coordination among group of robots.<br/><img src='/images/500x300.png'>"
+title: "Ultrasound based Occupancy Detection Sensor for Smart Buildings"
+excerpt: "A network of real time ultrasound based smart door person occupancy detector was designed and developed to identify and monitor human movement through a door with applications in big public buildings with large footfall.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-Investigations into the working of swarms in nature (eg: army ants, weaver ants, school of fishes and even cells in a multicellular organism ). Designing and developing bio-inspired Swarm robotics platform artificially imitating these natural processes of communication and coordination among group of robots.
+A network of real time ultrasound based smart door person occupancy detector was designed and developed to identify and monitor human movement through a door with applications in big public buildings with large footfall.
