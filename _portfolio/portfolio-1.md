@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "An Experimental Distributed Swarm Robotics Platform"
+excerpt: "Investigations into the working of swarms in nature (eg: army ants, weaver ants, school of fishes and even cells in a multicellular organism ). Designing and developing bio-inspired Swarm robotics platform artificially imitating these natural processes of communication and coordination among group of robots.<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Investigations into the working of swarms in nature (eg: army ants, weaver ants, school of fishes and even cells in a multicellular organism ). Designing and developing bio-inspired Swarm robotics platform artificially imitating these natural processes of communication and coordination among group of robots.
