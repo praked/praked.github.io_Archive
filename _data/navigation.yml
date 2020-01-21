@@ -1,17 +1,17 @@
 # main links links
 main:
   - title: "Publications"
-    url: /pk-publications/
+    url: /pranav-kedia-publications/
   - title: "Projects"
-    url: /pk-projects/
+    url: /pranav-kedia-projects/
   - title: "Talks"
-    url: /pk-talks/       
+    url: /pranav-kedia-talks/       
      
   - title: "Blog Posts"
-    url: /pk-blog/
+    url: /pranav-kedia-blog/
     
   - title: "CV & Contact"
-    url: /pk-cv/
+    url: /pranav-kedia-cv/
     
   - title: "Misc"
-    url: /pk-misc/
+    url: /pranav-kedia-misc/
