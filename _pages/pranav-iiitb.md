@@ -124,66 +124,34 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 10</div>
-  <img src="http://Anup-Deshmukh.github.io/files/photography/001.jpg" style="width:100%">
-  <div class="text">San Fracisco, USA</div>
+  <img src="http://praked.github.io/files/sphinx.jpg" style="width:100%">
+  <div class="text">Pyramids of Giza, Egypt</div>
+</div>
+<div class="mySlides fade">
+  <div class="numbertext">4 / 10</div>
+  <img src="http://praked.github.io/files/Zagazig_city.jpg" style="width:100%">
+  <div class="text">Zagazig, Egypt</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 10</div>
-  <img src="http://Anup-Deshmukh.github.io/files/photography/002.jpg" style="width:100%">
-  <div class="text">Montreal, Canada</div>
+  <img src="http://praked.github.io/files/Auroville.jpg" style="width:100%">
+  <div class="text">Auroville, India</div>
 </div>
 
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 10</div>
-  <img src="http://Anup-Deshmukh.github.io/files/photography/003.jpg" style="width:100%">
-  <div class="text">Waterloo, Canada</div>
+  <img src="http://praked.github.io/files/Rock_beach_aerial_view.jpg" style="width:100%">
+  <div class="text">Pondicherry, India</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">4 / 10</div>
-  <img src="http://Anup-Deshmukh.github.io/files/photography/000.jpg" style="width:100%">
-  <div class="text">Cottesloe Beach, Perth-Australia</div>
+  <img src="http://praked.github.io/files/mumbai.jpg" style="width:100%">
+  <div class="text">Mumbai, India</div>
 </div>
 
-<div class="mySlides fade">
-  <div class="numbertext">5 / 10</div>
-  <img src="http://Anup-Deshmukh.github.io/files/photography/111.jpg" style="width:100%">
-  <div class="text">Pancha Rathas, Mahabalipuram-India</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">6 / 10</div>
-  <img src="http://Anup-Deshmukh.github.io/files/photography/333.jpg" style="width:100%">
-  <div class="text">Amsterdam-Netherlands</div>
-</div>
-
-
-<div class="mySlides fade">
-  <div class="numbertext">7 / 10</div>
-  <img src="http://Anup-Deshmukh.github.io/files/photography/444.jpg" style="width:100%">
-  <div class="text">Zhaanse schans-Netherlands</div>
-</div>
-
-
-<div class="mySlides fade">
-  <div class="numbertext">8 / 10</div>
-  <img src="http://Anup-Deshmukh.github.io/files/photography/777.jpg" style="width:100%">
-  <div class="text">Saint Malo-France</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">9 / 10</div>
-  <img src="http://Anup-Deshmukh.github.io/files/photography/temp.jpg" style="width:100%">
-  <div class="text">Temple of Heaven-China</div>
-</div>
-
-<div class="mySlides fade">
-  <div class="numbertext">10 / 10</div>
-  <img src="http://Anup-Deshmukh.github.io/files/photography/sing.jpg" style="width:100%">
-  <div class="text">Gardens by the bay-Singapore</div>
-</div>
 
 <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
 <a class="next" onclick="plusSlides(1)">&#10095;</a>
@@ -197,11 +165,7 @@ img {vertical-align: middle;}
   <span class="dot" onclick="currentSlide(3)"></span> 
   <span class="dot" onclick="currentSlide(4)"></span> 
   <span class="dot" onclick="currentSlide(5)"></span> 
-   <span class="dot" onclick="currentSlide(6)"></span> 
-    <span class="dot" onclick="currentSlide(7)"></span> 
-     <span class="dot" onclick="currentSlide(8)"></span> 
-      <span class="dot" onclick="currentSlide(9)"></span> 
-       <span class="dot" onclick="currentSlide(10)"></span> 
+
 
 </div>
 
