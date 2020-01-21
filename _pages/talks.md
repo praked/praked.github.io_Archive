@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: "Pranav Kedia Talks and presentations"
 permalink: /pranav-kedia-talks/
 author_profile: true
 ---
