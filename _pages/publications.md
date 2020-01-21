@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /pk-publications/
+title: "Pranav Kedia Publications"
+permalink: /pranav-kedia-publications/
 author_profile: true
 ---
 
