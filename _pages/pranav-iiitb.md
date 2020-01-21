@@ -129,7 +129,7 @@ img {vertical-align: middle;}
 </div>
 <div class="mySlides fade">
   <div class="numbertext">4 / 10</div>
-  <img src="http://praked.github.io/files/Zagazig_city.jpg" style="width:100%">
+  <img src="http://praked.github.io/files/Zagazig.jpg" style="width:100%">
   <div class="text">Zagazig, Egypt</div>
 </div>
 
