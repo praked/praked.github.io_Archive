@@ -151,6 +151,21 @@ img {vertical-align: middle;}
   <img src="http://praked.github.io/files/mumbai.jpg" style="width:100%">
   <div class="text">Mumbai, India</div>
 </div>
+<div class="mySlides fade">
+  <div class="numbertext">4 / 10</div>
+  <img src="http://praked.github.io/files/gwalior.jpg" style="width:100%">
+  <div class="text">Gwalior, India</div>
+</div>
+<div class="mySlides fade">
+  <div class="numbertext">4 / 10</div>
+  <img src="http://praked.github.io/files/mangalore.jpg" style="width:100%">
+  <div class="text">Mangalore, India</div>
+</div>
+<div class="mySlides fade">
+  <div class="numbertext">4 / 10</div>
+  <img src="http://praked.github.io/files/delhi.jpg" style="width:100%">
+  <div class="text">Delhi, India</div>
+</div>
 
 
 <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
@@ -165,6 +180,9 @@ img {vertical-align: middle;}
   <span class="dot" onclick="currentSlide(3)"></span> 
   <span class="dot" onclick="currentSlide(4)"></span> 
   <span class="dot" onclick="currentSlide(5)"></span> 
+   <span class="dot" onclick="currentSlide(6)"></span> 
+  <span class="dot" onclick="currentSlide(7)"></span> 
+  <span class="dot" onclick="currentSlide(8)"></span> 
 
 
 </div>
