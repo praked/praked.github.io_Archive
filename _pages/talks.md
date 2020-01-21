@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Talks and presentations"
-permalink: /pk-talks/
+permalink: /pranav-kedia-talks/
 author_profile: true
 ---
 
