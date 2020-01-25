@@ -4,11 +4,11 @@ main:
     url: /pranav-kedia-publications/
   - title: "Projects"
     url: /pranav-kedia-projects/
-  - title: "Talks"
-    url: /pranav-kedia-talks/       
+ # - title: "Talks"
+ #   url: /pranav-kedia-talks/       
      
-  - title: "Blog Posts"
-    url: /pranav-kedia-blog/
+ # - title: "Blog Posts"
+ #   url: /pranav-kedia-blog/
     
   - title: "CV & Contact"
     url: /pranav-kedia-cv/
