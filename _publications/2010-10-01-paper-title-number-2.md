@@ -1,5 +1,5 @@
 ---
-title: "Design and development of an autonomous emergency vigilance system for passenger vehicle"
+title: "Design and development of an autonomous in-seat passenger state identification in a modern vigilance enabled public transportation system"
 collection: publications
 permalink: /pk-publication/Design-and-development-of-an-autonomous-emergency-vigilance-system-for-passenger-vehicle
 excerpt: ''
@@ -12,5 +12,4 @@ citation: 'P. Kedia, P. Aggarwal and M. Rao, "Design and development of an auton
 
 [Download paper here](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8906349&isnumber=8906290)
 
-Recommended citation: P. Kedia, P. Aggarwal and M. Rao, "Design and development of an autonomous in-seat passenger state identification in a modern vigilance enabled public transportation system," 2019 IEEE International Conference on Vehicular Electronics and Safety (ICVES), Cairo, Egypt, 2019, pp. 1-6.
-doi: 10.1109/ICVES.2019.8906349
+
