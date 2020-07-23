@@ -116,7 +116,7 @@ img {vertical-align: middle;}
 
 <p align="justify"> The first 18 years of my life were spent in a small town called <a href="https://en.wikipedia.org/wiki/Faridabad">Faridabad</a>. Where ever I go, this town always travels with me and always enriches me. </p>
 
-<p style="text-decoration:underline;padding:1.5%; border:5px double #F1E5BE; border-radius: 15px; " align="center"> <a href="/talkmap.html">See a map of all the places I've been to!</a>   </p>
+
   
 <br/>
 
