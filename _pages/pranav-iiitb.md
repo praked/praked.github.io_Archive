@@ -123,7 +123,7 @@ img {vertical-align: middle;}
 <div class="slideshow-container">
 <div class="mySlides fade">
   <div class="numbertext">1</div>
-  <img src="http://praked.github.io/files/Abu_Dhabi.jpg" style="width:100%">
+  <img src="http://praked.github.io/files/abu_dh.jpg" style="width:100%">
   <div class="text">Abu Dhabi, UAE</div>
 </div>
 <div class="mySlides fade">
