@@ -4,5 +4,5 @@ excerpt: "Developed a hand based controller for various peripherals like mouse a
 collection: portfolio
 ---
 
-Developed a hand based controller for various peripherals like mouse and keyboard through hand gesture and movement with applications in fields of VR and to help disabled people to communicate with others and is an easy interface to technology. More Info:https://goo.gl/YrJeaL
+Developed a hand based controller for various peripherals like mouse and keyboard through hand gesture and movement with applications in fields of VR and to help disabled people to communicate with others and is an easy interface to technology. <a href="https://goo.gl/YrJeaL">More Info</a>
   
