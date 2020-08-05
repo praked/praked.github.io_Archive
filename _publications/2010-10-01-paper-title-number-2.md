@@ -4,7 +4,7 @@ collection: publications
 permalink: /pk-publication/Design-and-development-of-an-autonomous-emergency-vigilance-system-for-passenger-vehicle
 excerpt: ''
 date: 2019-09-06
-venue: 'ICVES'
+venue: 'IEEE International Conference on Vehicular Electronics and Safety (ICVES)'
 citation: 'P. Kedia, P. Aggarwal and M. Rao, "Design and development of an autonomous in-seat passenger state identification in a modern vigilance enabled public transportation system," 2019 IEEE International Conference on Vehicular Electronics and Safety (ICVES), Cairo, Egypt, 2019, pp. 1-6.'
 ---
 
