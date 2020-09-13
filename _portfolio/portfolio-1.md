@@ -10,4 +10,4 @@ We present GenGrid, a comprehensive open-source distributed platform for swarm r
 <iframe width="373" height="210" src="https://www.youtube.com/embed/C7K-rOPs5fg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h2 align="left">Robot Path following based on multiple gradients/ Pheromone Foraging on GenGrid</h2>
-<iframe width="373" height="210" src="https://www.youtube.com/embed/Ii2plv1md6M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="373" height="210" src="https://www.youtube.com/embed/_7BdSvJxI8k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
