@@ -7,6 +7,7 @@ collection: portfolio
 We present GenGrid, a comprehensive open-source distributed platform for swarm robotics experiments, which can accommodate different types of swarm robotics platforms such as Kilobot, Colias and similar robotic platforms. It acts as a tool for sensory feedback, messaging, macro-level data collection and interaction. It enables researchers to have programmable control over the experimental setup and its parameters. GenGrid is a modular grid of attachable computing nodes that provide for agent to grid-node and grid-node to grid-node bidirectional communication. This study describes the hardware and software architecture of the GenGrid system and some case studies accompanied by its distribution as a new open-hardware tool for the multi-robot research, swarm robotics and human-robot interaction community. We demonstrate the capabilities of the GenGrid using a 25-module 375mm X 375mm GenGrid, two robots, and the following case studies: obstacle avoidance, path following based on multiple gradients, pheromone-based foraging, collective transport, and shepherding.
 
 <h2 align="left">GenGrid Continous Pheromone Depositon by a Robot</h2>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C7K-rOPs5fg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="373" height="105" src="https://www.youtube.com/embed/C7K-rOPs5fg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
+<h2 align="left">Robot Path following based on multiple gradients/ Pheromone Foraging on GenGrid</h2>
+<iframe width="373" height="105" src="https://www.youtube.com/embed/Ii2plv1md6M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
