@@ -260,7 +260,6 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 
 # Plugins
 plugins:
-  - jekyll-include-cache
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
@@ -311,4 +310,4 @@ compress_html:
   ignore:
     envs: development
 
-remote_theme: hydecorp/hydejack@v9.0.4
+theme: jekyll-theme-hacker
