@@ -121,6 +121,7 @@ img {vertical-align: middle;}
 <br/>
 
 <div class="slideshow-container">
+  
 <div class="mySlides fade">
   <div class="numbertext">1</div>
   <img src="http://praked.github.io/files/berlin.jpg" style="width:100%">
@@ -190,7 +191,21 @@ img {vertical-align: middle;}
   <img src="http://praked.github.io/files/delhi.jpg" style="width:100%">
   <div class="text">Delhi, India</div>
 </div>
-
+<div class="mySlides fade">
+  <div class="numbertext">14</div>
+  <img src="http://praked.github.io/files/Amsterdam.jpg" style="width:100%">
+  <div class="text">Amsterdam, Netherlands</div>
+</div>
+<div class="mySlides fade">
+  <div class="numbertext">15</div>
+  <img src="http://praked.github.io/files/Hamburg.jpg" style="width:100%">
+  <div class="text">Hamburg, Germany</div>
+</div>
+<div class="mySlides fade">
+  <div class="numbertext">16</div>
+  <img src="http://praked.github.io/files/Prague.jpg" style="width:100%">
+  <div class="text">Prague, Czechia</div>
+</div>  
 
 <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
 <a class="next" onclick="plusSlides(1)">&#10095;</a>
