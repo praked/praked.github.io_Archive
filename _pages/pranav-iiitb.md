@@ -198,7 +198,7 @@ img {vertical-align: middle;}
 </div>
 <div class="mySlides fade">
   <div class="numbertext">15</div>
-  <img src="http://praked.github.io/files/Hamburg.jpg" style="width:100%">
+  <img src="http://praked.github.io/files/Hamburg.jpg" style="width:100%;height:60%">
   <div class="text">Hamburg, Germany</div>
 </div>
 <div class="mySlides fade">
