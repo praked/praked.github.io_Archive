@@ -124,61 +124,61 @@ img {vertical-align: middle;}
   
 <div class="mySlides fade">
   <div class="numbertext">1</div>
-  <img src="http://praked.github.io/files/berlin.jpg" style="width:100%">
+  <img src="http://praked.github.io/praked.github.io_Archive/files/berlin.jpg" style="width:100%">
   <div class="text">Berlin, Germany</div>
 </div>
  <div class="mySlides fade">
   <div class="numbertext">2</div>
-  <img src="http://praked.github.io/files/leipzig.jpg" style="width:100%">
+  <img src="http://praked.github.io/praked.github.io_Archive/files/leipzig.jpg" style="width:100%">
   <div class="text">Leipzig, Germany</div>
 </div>
  <div class="mySlides fade">
   <div class="numbertext">3</div>
-  <img src="http://praked.github.io/files/dresden.jpg" style="width:100%">
+  <img src="http://praked.github.io/praked.github.io_Archive/files/dresden.jpg" style="width:100%">
   <div class="text">Dresden, Germany</div>
 </div>
  <div class="mySlides fade">
   <div class="numbertext">4</div>
-  <img src="http://praked.github.io/files/frankfurt.jpg" style="width:100%">
+  <img src="http://praked.github.io/praked.github.io_Archive/files/frankfurt.jpg" style="width:100%">
   <div class="text">Frankfurt, Germany</div>
 </div> 
  <div class="mySlides fade">
   <div class="numbertext">5</div>
-  <img src="http://praked.github.io/files/abu_dh.jpg" style="width:100%">
+  <img src="http://praked.github.io/praked.github.io_Archive/files/abu_dh.jpg" style="width:100%">
   <div class="text">Abu Dhabi, UAE</div>
 </div>
 <div class="mySlides fade">
   <div class="numbertext">6</div>
-  <img src="http://praked.github.io/files/sphinx.jpg" style="width:100%">
+  <img src="http://praked.github.io/praked.github.io_Archive/files/sphinx.jpg" style="width:100%">
   <div class="text">Pyramids of Giza, Egypt</div>
 </div>
 <div class="mySlides fade">
   <div class="numbertext">7</div>
-  <img src="http://praked.github.io/files/Zagazig.jpg" style="width:100%">
+  <img src="http://praked.github.io/praked.github.io_Archive/files/Zagazig.jpg" style="width:100%">
   <div class="text">Zagazig, Egypt</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">8</div>
-  <img src="http://praked.github.io/files/Auroville.jpg" style="width:100%">
+  <img src="http://praked.github.io/praked.github.io_Archive/files/Auroville.jpg" style="width:100%">
   <div class="text">Auroville, India</div>
 </div>
 
 
 <div class="mySlides fade">
   <div class="numbertext">9</div>
-  <img src="http://praked.github.io/files/Rock_beach_aerial_view.jpg" style="width:100%">
+  <img src="http://praked.github.io/praked.github.io_Archive/files/Rock_beach_aerial_view.jpg" style="width:100%">
   <div class="text">Pondicherry, India</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">10</div>
-  <img src="http://praked.github.io/files/mumbai.jpg" style="width:100%">
+  <img src="http://praked.github.io/praked.github.io_Archive/files/mumbai.jpg" style="width:100%">
   <div class="text">Mumbai, India</div>
 </div>
 <div class="mySlides fade">
   <div class="numbertext">11</div>
-  <img src="http://praked.github.io/files/gwalior.jpg" style="width:100%">
+  <img src="http://praked.github.io/praked.github.io_Archive/files/gwalior.jpg" style="width:100%">
   <div class="text">Gwalior, India</div>
 </div>
 <div class="mySlides fade">
@@ -188,22 +188,22 @@ img {vertical-align: middle;}
 </div>
 <div class="mySlides fade">
   <div class="numbertext">13</div>
-  <img src="http://praked.github.io/files/delhi.jpg" style="width:100%">
+  <img src="http://praked.github.io/praked.github.io_Archive/files/delhi.jpg" style="width:100%">
   <div class="text">Delhi, India</div>
 </div>
 <div class="mySlides fade">
   <div class="numbertext">14</div>
-  <img src="http://praked.github.io/files/Amsterdam.jpg" style="width:100%">
+  <img src="http://praked.github.io/praked.github.io_Archive/files/Amsterdam.jpg" style="width:100%">
   <div class="text">Amsterdam, Netherlands</div>
 </div>
 <div class="mySlides fade">
   <div class="numbertext">15</div>
-  <img src="http://praked.github.io/files/Hamburg.jpg" style="width:100%;height:60%">
+  <img src="http://praked.github.io/praked.github.io_Archive/files/Hamburg.jpg" style="width:100%;height:60%">
   <div class="text">Hamburg, Germany</div>
 </div>
 <div class="mySlides fade">
   <div class="numbertext">16</div>
-  <img src="http://praked.github.io/files/Prague.jpg" style="width:100%">
+  <img src="http://praked.github.io/praked.github.io_Archive/files/Prague.jpg" style="width:100%">
   <div class="text">Prague, Czechia</div>
 </div>  
 
